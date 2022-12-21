@@ -1,5 +1,5 @@
 # Python-
+![giphy](https://user-images.githubusercontent.com/115818808/208915371-02811c79-cb40-4220-b6e5-5ef7ad3b2f2a.gif)
 
-![image](https://user-images.githubusercontent.com/115818808/208910439-79fcfbab-ca6f-4717-bf09-b936f8c7dff9.png)
 
 
